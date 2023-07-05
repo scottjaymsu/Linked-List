@@ -1,4 +1,4 @@
-# Linked-List
+# Linked-List-Implementation
 
 This linked list implementation and design was the final challenge of my university course. Which focused on object-centered design and implementation in C++. Building programs from modules. Data abstractions and classes to implement abstract data types. Static and dynamic memory allocation. Data structure implementation and algorithm efficiency. Lists, tables, stacks, and queues. Templates and generic programming. I implemented the member and friend functions that are bolded below, as well as the main.cpp file. The singlelink.hpp file was provided as guidance by the course instructor.
 
