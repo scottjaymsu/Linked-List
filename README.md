@@ -1,6 +1,6 @@
 # Linked-List
 
-# This linked list implementation and design was the final challenge of my university course. Which focused on object-centered design and implementation in C++. Building programs from modules. Data abstractions and classes to implement abstract data types. Static and dynamic memory allocation. Data structure implementation and algorithm efficiency. Lists, tables, stacks, and queues. Templates and generic programming. I implemented the member and friend functions that are bolded below, as well as the main.cpp file. The singlelink.hpp file was provided as guidance by the course instructor.
+This linked list implementation and design was the final challenge of my university course. Which focused on object-centered design and implementation in C++. Building programs from modules. Data abstractions and classes to implement abstract data types. Static and dynamic memory allocation. Data structure implementation and algorithm efficiency. Lists, tables, stacks, and queues. Templates and generic programming. I implemented the member and friend functions that are bolded below, as well as the main.cpp file. The singlelink.hpp file was provided as guidance by the course instructor.
 
 
 A singly-linked list is a data structure for implementing a generic array of elements, where each node has data, and a pointer to the next node. The list structure typically has pointers to the list’s first node and last node. A singly-linked list’s first node is typically called the head, and the last node the tail.
